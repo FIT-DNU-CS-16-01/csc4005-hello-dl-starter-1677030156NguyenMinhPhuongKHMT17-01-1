@@ -66,9 +66,9 @@ Sinh viên nộp lại toàn bộ project sau khi đã chạy xong, bao gồm:
 - ảnh chụp màn hình terminal hoặc output thành công
 
 ## Sinh viên cần cập nhật README này
-- Họ tên:
-- MSSV:
-- Lớp:
+- Họ tên: Nguyễn Minh Phượng
+- MSSV: 1677030156
+- Lớp: KHMT17-01
 - Hệ điều hành: Windows 11
 - Python version: 3.12.6
 - Torch version: 2.11.0+cpu
